@@ -12,6 +12,6 @@ You can view all the questions:
 
 ![Alt text](/screenshots/questions.png)
 
-And click on one to view it
+And click on one to view it:
 
 ![Alt text](/screenshots/question.png)
